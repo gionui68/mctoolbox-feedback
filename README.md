@@ -18,6 +18,10 @@ Visit **[mctoolbox.net](https://mctoolbox.net)** to use the tools directly in yo
   - [Schematics Library & 3D Preview](https://mctoolbox.net/schematics) — browse `.schem` / `.litematic` builds with interactive 3D previews and material lists
   - [Seed Map](https://mctoolbox.net/seed-map) — Java and Bedrock biome & structure finder
   - [Minecraft Papercraft Generators](https://mctoolbox.net/minecraft-papercraft) — printable character and block cube nets
+- **Command Generators**
+  - [Give Command Generator](https://mctoolbox.net/give) — build Java and Bedrock `/give` item commands with enchantments, custom names, and components
+  - [Summon Generator](https://mctoolbox.net/summon), [Execute Generator](https://mctoolbox.net/execute), [Clone Generator](https://mctoolbox.net/clone) & [Tellraw Generator](https://mctoolbox.net/tellraw-generator)
+  - [Java to Bedrock Command Converter](https://mctoolbox.net/java-to-bedrock-command-converter)
 - **Server Administration**
   - [server.properties Generator & Editor](https://mctoolbox.net/server-properties) — edit or import existing Java server configs
   - [Server & File Tools](https://mctoolbox.net/tools/server) — start scripts, RAM calculator, whitelist JSON, `plugin.yml`, MiniMessage, and MOTD builders
