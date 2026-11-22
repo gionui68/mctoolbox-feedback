@@ -27,16 +27,16 @@ Public release history of tools, features, and Minecraft version updates on [MC 
 - **Note Block Tuner (`/note-block-tuner`)** *(2026-10-20)*: Interactive 25-note keyboard with real instrument sounds and block mappings.
 - **Villager Discount Calculator (`/villager-discount-calculator`)** *(2026-10-20)*: Calculates zombie cure, reputation, Hero of the Village, and demand pricing.
 - **Superflat Preset Generator (`/superflat-preset-generator`)** *(2026-10-20)*: Textured layer editor with version-aware preset output.
-- **Command & Text Builders** *(2026-10-12 – 2026-10-13)*: Launched `/kill`, `/attribute`, and `/ride` command generators, **Java to Bedrock Command Converter**, **Minecraft Font Generator**, and **Block Letter Generator**.
-- **Block & Version References** *(2026-10-11 – 2026-10-12)*: Launched **Block Gradient Generator**, **Block Properties Table** (Java `26.3`), and **Minecraft Java Version List** (data versions & pack formats).
+- **Command & Text Builders** *(2026-10-12 - 2026-10-13)*: Launched `/kill`, `/attribute`, and `/ride` command generators, **Java to Bedrock Command Converter**, **Minecraft Font Generator**, and **Block Letter Generator**.
+- **Block & Version References** *(2026-10-11 - 2026-10-12)*: Launched **Block Gradient Generator**, **Block Properties Table** (Java `26.3`), and **Minecraft Java Version List** (data versions & pack formats).
 
 ### Improvements & Fixes
 - **Beacon Calculator** *(2026-10-31)*: Added beam color finder using Java integer averaging, OKLab search, glass stack preview, and 16-color reference.
 - **UUID Lookup** *(2026-10-31)*: Added Minecraft username availability checker (single and batch up to 10 names).
 - **Armor Trim Viewer** *(2026-10-31)*: Added Java leather dye recipe finder (exact mixing rules up to 3 steps).
-- **Seed Finder & Bedrock Seed Map** *(2026-10-21 – 2026-10-30)*: Added Trial Chambers (`1.21+`) with `/tp` copy; improved Bedrock End biome tiles, End Cities validation, and Trail Ruins / Fortress chunk anchoring (`BDS 1.26.52`).
+- **Seed Finder & Bedrock Seed Map** *(2026-10-21 - 2026-10-30)*: Added Trial Chambers (`1.21+`) with `/tp` copy; improved Bedrock End biome tiles, End Cities validation, and Trail Ruins / Fortress chunk anchoring (`BDS 1.26.52`).
 - **Server Start Script** *(2026-10-28)*: Added Flags presets (None, Aikar's, Velocity proxy) and memory slider with RAM hints.
-- **Schematics & Pixel Art** *(2026-10-11 – 2026-10-28)*: Added large-build schematic support, voxel night lighting, printable PDF chart & 1:1 PNG export for Pixel Art, and survival material breakdowns.
+- **Schematics & Pixel Art** *(2026-10-11 - 2026-10-28)*: Added large-build schematic support, voxel night lighting, printable PDF chart & 1:1 PNG export for Pixel Art, and survival material breakdowns.
 
 ---
 
@@ -45,13 +45,13 @@ Public release history of tools, features, and Minecraft version updates on [MC 
 ### New Tools
 - **Pixel Art Editor & Library (`/pixel-art-editor`)** *(2026-09-20)*: Interactive block-based pixel art editor with direct image import, fullscreen workspace, transparent PNG / blueprint grid export, and material lists.
 - **Community Banner Library (`/community-banners`)** *(2026-09-15)*: Shareable banner gallery with command import and previews.
-- **Gameplay Calculators** *(2026-09-12 – 2026-09-13)*: Launched **Explosion Calculator**, **Crop Growth Calculator**, **Java Fishing Calculator**, and **Loot Odds Calculator** (barter, fishing, and mob tables).
+- **Gameplay Calculators** *(2026-09-12 - 2026-09-13)*: Launched **Explosion Calculator**, **Crop Growth Calculator**, **Java Fishing Calculator**, and **Loot Odds Calculator** (barter, fishing, and mob tables).
 - **Locator Bar Color Tool (`/locator-bar-color`)** *(2026-09-09)*: Added public locator bar color utility.
 
 ### Improvements & Fixes
 - **Seed Map** *(2026-09-21)*: Added Bedrock `26.51` support.
 - **Papercraft** *(2026-09-22)*: Refined printable character and block cube nets and print controls.
-- **Custom Totem** *(2026-09-09 – 2026-09-21)*: Expanded totem styles, exports, and preview controls.
+- **Custom Totem** *(2026-09-09 - 2026-09-21)*: Expanded totem styles, exports, and preview controls.
 - **Earth Map** *(2026-09-21)*: Added resilient keyless fallback map tiles.
 
 ---
@@ -101,12 +101,12 @@ Public release history of tools, features, and Minecraft version updates on [MC 
 
 ---
 
-## 2026-04 — Initial Launch
+## 2026-04 - Initial Launch
 
 ### Core Tools Released
 - **MRPack to ZIP Converter (`/mrpack-to-zip`)** *(2026-04-15)*.
 - **Crafting Table Recipe Browser (`/crafting`) & Mob Spawner Generator (`/spawner`)** *(2026-04-14)*.
-- **3D Skin Editor & Studio (`/edit-skin`)** *(2026-04-13 – 2026-04-18)*: Floating studio panels, autosave, grid shortcuts, and mobile touch controls.
+- **3D Skin Editor & Studio (`/edit-skin`)** *(2026-04-13 - 2026-04-18)*: Floating studio panels, autosave, grid shortcuts, and mobile touch controls.
 - **Texture Maker (`/texture-maker`)** *(2026-04-09)*: Pixel editor with undo/redo, grid toggle, and ZIP export.
 - **Circle Generator (`/circle`) & Sphere Generator (`/sphere`)** *(2026-04-08)*.
 - **MOTD Generator (`/motd`), MiniMessage Viewer (`/minimessage`) & Seed Map (`/seed-map`)** *(2026-04-06)*: Initial public launch with shareable URLs and live previews.
